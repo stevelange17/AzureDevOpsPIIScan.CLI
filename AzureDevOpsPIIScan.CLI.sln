@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31529.145
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOpsPIIScan.CLI", "AzureDevOpsPIIScan.CLI\AzureDevOpsPIIScan.CLI.csproj", "{1DB36388-B31B-40C4-887C-EF3186C04AED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzureDevOpsPIIScan.Lib", "AzureDevOpsPIIScan.Lib\AzureDevOpsPIIScan.Lib.csproj", "{D281DE5C-59E8-44B7-BB55-EE18E3B6BB49}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1DB36388-B31B-40C4-887C-EF3186C04AED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1DB36388-B31B-40C4-887C-EF3186C04AED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1DB36388-B31B-40C4-887C-EF3186C04AED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1DB36388-B31B-40C4-887C-EF3186C04AED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D281DE5C-59E8-44B7-BB55-EE18E3B6BB49}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D281DE5C-59E8-44B7-BB55-EE18E3B6BB49}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D281DE5C-59E8-44B7-BB55-EE18E3B6BB49}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D281DE5C-59E8-44B7-BB55-EE18E3B6BB49}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A0959F9F-93B3-4098-A945-6E3278BD7875}
+	EndGlobalSection
+EndGlobal
